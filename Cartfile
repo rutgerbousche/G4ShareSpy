@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 3.0
+github "rutgerbousche/Loop" ~> 3.0
 github "rutgerbousche/dexcom-share-client-swift" "master"
